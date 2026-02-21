@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 let App = () =>{
   return (
     <div className="App">
+
         <Header />
         <Caraousal />
         <Offers />
