@@ -20,3 +20,6 @@ _skills[3]="E";
 
 console.log(employees.skills);
 
+//Q2. add one more skills in employees profile
+employees = {...employees, skills:[...employees.skills, "Swift UI"]};
+console.log(JSON.stringify(employees.skills, null, 3))
