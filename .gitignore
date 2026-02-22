@@ -140,3 +140,4 @@ vite.config.ts.timestamp-*
 
 
 /hello-app/node_modules
+/shreniks-app/node_modules
